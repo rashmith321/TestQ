@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+backend/output/*
+!backend/output/.gitkeep
+backend/tests/fixtures/live/
+node_modules/
+frontend/dist/
+.env
+.DS_Store

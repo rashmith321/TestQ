@@ -1,0 +1,18 @@
+{"data": {"matchedUser": {"tagProblemCounts": {
+  "advanced": [
+    {"tagName": "Dynamic Programming", "tagSlug": "dynamic-programming", "problemsSolved": 14},
+    {"tagName": "Backtracking", "tagSlug": "backtracking", "problemsSolved": 5},
+    {"tagName": "Union Find", "tagSlug": "union-find", "problemsSolved": 2}
+  ],
+  "intermediate": [
+    {"tagName": "Hash Table", "tagSlug": "hash-table", "problemsSolved": 31},
+    {"tagName": "Math", "tagSlug": "math", "problemsSolved": 12},
+    {"tagName": "Depth-First Search", "tagSlug": "depth-first-search", "problemsSolved": 9}
+  ],
+  "fundamental": [
+    {"tagName": "Array", "tagSlug": "array", "problemsSolved": 58},
+    {"tagName": "String", "tagSlug": "string", "problemsSolved": 22},
+    {"tagName": "Two Pointers", "tagSlug": "two-pointers", "problemsSolved": 15},
+    {"tagName": "Sorting", "tagSlug": "sorting", "problemsSolved": 11}
+  ]
+}}}}
